@@ -1,4 +1,4 @@
-# HTML-Challenge
+# Web Scraping Challenge
 
 **Project Overview**
 This project focuses on the analysis of Mars-related data using Python. The project includes data extraction, processing, and visualization tasks using Jupyter Notebooks. The key focus areas include scraping Mars news, analyzing Mars weather data, and calculating various metrics like temperature trends and atmospheric pressure on Mars.
